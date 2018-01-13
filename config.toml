@@ -1,4 +1,4 @@
-baseURL = "https://dsacleveland.firebaseapp.com"
+baseURL = "https://dsacleveland.firebaseapp.com/"
 languageCode = "en-us"
 title = "DSA Cleveland"
 theme = "minimal"
@@ -11,12 +11,12 @@ googleAnalytics = ""
     accent = "red"
     showBorder = true
     backgroundColor = "white"
-    font = "Raleway" # should match the name on Google Fonts!
+    font = "Roboto" # should match the name on Google Fonts!
     profilepic = "img/dsa.jpg"
 
 [[menu.main]]
     url = "/"
-    name = "Home"
+    name = "DSA Cleveland"
     weight = 1
 
 [[menu.main]]
@@ -52,7 +52,7 @@ googleAnalytics = ""
 
 [[menu.icon]]
     url = "mailto:info@dsacleveland.com"
-    name = "envelope-o"
+    name = "envelope"
     weight = 1
 
 [[menu.icon]]

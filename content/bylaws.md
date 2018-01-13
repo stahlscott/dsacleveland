@@ -5,10 +5,12 @@ draft = false
 noauthor = true
 title = "Structure & Bylaws"
 type = "page"
+description = " "
 
 +++
 
-Our Structure
+## Our Structure
+
 Who are the leaders of Cleveland DSA? Its members.
 
 Who makes decisions for Cleveland DSA? Its members.
@@ -21,7 +23,7 @@ MEMBERSHIP makes all the decisions. Any member can propose a new idea, create a 
 
 Cleveland DSA is governed by bylaws approved by the members, and members can amend and change them at any time. Our meetings and our democratic process follow rules of order which insure that the members of Cleveland DSA are able to have full control and over everything we do.
 
-STEERING COMMITTEE
+#### STEERING COMMITTEE
 
 Membership makes decisions, sets priorities, and determines the direction of Cleveland DSA’s work. The Steering Committee is makes sure these decisions are carried out and works on the administrative tasks to keep our chapter running. The Steering Committee is made up of officers with specific roles and at-large members:
 
@@ -32,9 +34,9 @@ Membership Coordinator: keeps our member rosters and contact information up to d
 At-Large Members: Unlike officers, who have more specific duties, At-Large members have more flexibility in how they contribute to managing the administrative tasks of Cleveland DSA. At-Large members help the Steering Committee carry out the tasks and priorities decided by the members. At-Large members can serve on committees, direct special projects, or any other tasks as needed.
 Elections are held regularly according to our bylaws, and special elections are held when vacancies need to be filled or for special positions like Delegates to regional or national convention. If you’re interested in running for office, or want to know more about the role of our Steering Committee, Officers, or At-Large Members, please contact us!
 
-Bylaws
-Cleveland Democratic Socialists of America Bylaws
-ARTICLE I
+## Bylaws
+### Cleveland Democratic Socialists of America Bylaws
+#### ARTICLE I
 
 1. NAME: The name of this organization is the Cleveland Democratic Socialists of America, an Ohio not-for profit social welfare corporation. (Hereinafter, Cleveland DSA)
 
@@ -60,7 +62,7 @@ Any member of the public who supports the mission and purpose of Cleveland DSA m
 
 7. DUES: The Membership shall determine any local Dues or Pledges, which shall be separate from dues paid to national Democratic Socialists of America. Members who pay local dues or pledges are granted no additional rights or privileges, nor may any separate classes of membership be established.
 
-ARTICLE II
+#### ARTICLE II
 
 1. GOVERNANCE: Cleveland DSA is governed and led by the democratic participation of its Membership. The Membership exercises governance through regular General Meetings. A Steering Committee described below shall be elected, and the Steering Committee, officers, other agents, and committees are charged with the execution of decisions of the membership.
 
@@ -124,7 +126,7 @@ The Membership Coordinator shall be responsible for outreach and communication w
 
 13. REMOVAL: Any Officer, At-Large Member, or Delegate the Steering Committee may be removed by a two-thirds vote of the membership with or without cause.. Any Officer or member of the Steering Committee may resign in writing.
 
-ARTICLE III
+#### ARTICLE III
 
 1. COMMITTEES: The number, duties, duration, and functions of committees, if any, shall be as determined by the membership. Chairs and co-chairs of committees must be members in good standing. Each committee chair or co-chair will report to the steering committee and the general membership.
 

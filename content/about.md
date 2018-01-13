@@ -5,6 +5,7 @@ draft = false
 noauthor = true
 title = "About"
 type = "page"
+description = " "
 
 +++
 
