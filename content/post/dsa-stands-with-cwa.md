@@ -1,7 +1,7 @@
 ---
 title: "DSA Stands With CWA"
 date: 2018-01-13
-tags: []
+tags: ["solidarity"]
 draft: false
 description: "Solidarity for all"
 ---

@@ -11,7 +11,7 @@ googleAnalytics = ""
     accent = "red"
     showBorder = true
     backgroundColor = "white"
-    font = "Roboto" # should match the name on Google Fonts!
+    font = "Lato" # should match the name on Google Fonts!
     profilepic = "img/dsa.jpg"
 
 [[menu.main]]

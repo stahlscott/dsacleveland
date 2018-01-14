@@ -1,7 +1,7 @@
 ---
 title:  "February General Meeting"
 date: 2018-01-09
-tags: []
+tags: ["events"]
 featured_image: ""
 description: "Feb 1 general meeting @ Cleveland Heights Library"
 ---
