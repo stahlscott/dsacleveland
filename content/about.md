@@ -1,13 +1,12 @@
-+++
-comments = false
-date = "2015-04-14T22:17:00+00:00"
-draft = false
-noauthor = true
-title = "About"
-type = "page"
-description = " "
-
-+++
+---
+comments: false
+date: "2015-04-14T22:17:00+00:00"
+draft: false
+noauthor: true
+title: "About"
+type: "page"
+description: " "
+---
 
 DSA Cleveland is the local chapter of the Democratic Socialists of America, organizing throughout the Cleveland, OH metropolitan area. As an organization and as individual members, DSA Cleveland is building progressive movements for social change while establishing an openly democratic socialist presence in local politics in Cleveland and throughout Northeast Ohio. We work locally and regionally, along with DSA Chapters in Akron, Portage Co, and Columbus.
 

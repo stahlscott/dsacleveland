@@ -1,11 +1,11 @@
-+++
-comments = false
-draft = false
-noauthor = true
-type = "page"
-title = "Contact Us"
-description = " "
-+++
+---
+comments: false
+draft: false
+noauthor: true
+type: "page"
+title: "Contact Us"
+description: " "
+---
 
 We'd love to hear from you! Send us an email at [info@dsacleveland.org](mailto:info@dsacleveland.org)
 
