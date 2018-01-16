@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Join Cleveland DSA and CLE for Transit at City Council!
 date: '2018-01-01'
 tags:
