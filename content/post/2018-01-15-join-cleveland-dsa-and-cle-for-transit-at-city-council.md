@@ -5,7 +5,7 @@ date: '2018-01-01'
 tags:
   - solidarity
 ---
-![dsa.jpg]({{site.baseurl}}/static/img/dsa.jpg)
+![dsa.jpg](/img/dsa.jpg)
 
 Cleveland DSA joins Clevelanders for Public Transit in demanding that the Cleveland City Council take action to open Public Square to Transit. We encourage everyone to join us Monday, January 9, 2017 at 6:30 pm at the City Council Meeting, 601 Lakeside Avenue, to voice our demand that the city open the dedicated transit lanes in Public Square.
 
